@@ -104,13 +104,24 @@ background-repeat: no-repeat;
     
 }
  section.body-up div.body-up-parent{
-height: 30px;
-width: 100%;
-float: left;
-text-align: center;
-padding-top: 50px;
-clear: both;
+    height: 60px;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+    clear: both;
+    margin-left: 5%;
+  
 }
+  section.body-up div.body-up-parent div.moveee{
+    margin-right: 53px;
+    width:20%;
+      
+}
+section.body-up div.body-up-parent div.moveee p{
+    text-align: justify;
+    text-align-last:center;
+}
+
 section.body-up div.body-up-parent button{
      color: #fff;
     background: #7CC83F;
@@ -120,8 +131,6 @@ section.body-up div.body-up-parent button{
     text-align: center;
 }
 section.body-up div.body-up-parent .body-up-one{
-    width: 25%;
-    height: 60px;
     float: left;
     text-align: center;
    
@@ -132,8 +141,7 @@ section.body-up div.body-up-parent .body-up-one i{
 }
 
 section.body-up div.body-up-parent .body-up-two{
-     width: 25%;
-    height: 60px;
+
    
     float: left;
 }
@@ -147,9 +155,6 @@ section.body-up div.body-up-parent .body-up-two i{
     padding-top: 5px;
 }
 section.body-up div.body-up-parent .body-up-three{
-    width: 25%;
-    height: 60px;
-  
     float: left;
 }
 section.body-up div.body-up-parent .body-up-three i{
@@ -162,8 +167,6 @@ section.body-up div.body-up-parent .body-up-three i{
     padding-top: 6px;
 }
 section.body-up div.body-up-parent .body-up-four{
-    width: 25%;
-    height: 60px;
   
     float: left;
 }
